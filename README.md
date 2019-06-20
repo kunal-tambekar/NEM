@@ -1,8 +1,8 @@
 # NEM
 An Android app created to bring you your daily quota of News, Entertainment and Motivation.
-N> News : Top world news articles along with the sunset and sunrise timings for your location.
-E> Entertainment: Top 500 movies (IMDB rating) that tou can add to your watchlist
-M> Motivation: Shake your phone like a Magic 8 ball to fetch you some random quote to keep your morale boosted.
+> - *N:* _News : Top world news articles along with the sunset and sunrise timings for your location._
+> - *E:* _Entertainment: Top 500 movies (IMDB rating) that tou can add to your watchlist_
+> - *M:* _Motivation: Shake your phone like a Magic 8 ball to fetch you some random quote to keep your morale boosted._
 
 ## Made using: 
 > - Retrofit
