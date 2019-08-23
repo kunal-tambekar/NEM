@@ -18,4 +18,21 @@ An Android app created to bring you your daily quota of News, Entertainment and 
 > - Sunset Sunrise API
 
 ## SCREENSHOTS
-![Home Screen](https://github.com/kunal-tambekar/NEM/blob/master/NEM%20Home.png)
+Home Screen
+![Home Screen](https://github.com/kunal-tambekar/NEM/Screenshots/blob/master/NEM%20Home.png)
+
+News Screen
+![Home Screen](https://github.com/kunal-tambekar/NEM/Screenshots/blob/master/NEM%20News.png)
+
+Entertainment Screen
+![Home Screen](https://github.com/kunal-tambekar/NEM/blob/master/Screenshots/NEM%20Entertainment.png)
+
+Entertainment Detail Screen
+![Home Screen](https://github.com/kunal-tambekar/NEM/blob/master/Screenshots/NEM%20Entertainment%20Detail.png)
+
+Motivation Screen
+![Home Screen](https://github.com/kunal-tambekar/NEM/Screenshots/blob/master/NEM%20Motivation.png)
+
+About Screen
+![About Screen](https://github.com/kunal-tambekar/NEM/Screenshots/blob/master/NEM%20About.png)
+
