@@ -16,3 +16,6 @@ An Android app created to bring you your daily quota of News, Entertainment and 
 > - The News API
 > - Forismatic Quote API
 > - Sunset Sunrise API
+
+## SCREENSHOTS
+![Home Screen](https://github.com/kunal-tambekar/NEM/blob/master/NEM%20Home.png)
