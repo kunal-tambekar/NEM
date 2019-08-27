@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NEM</string>
+    <string name="str_hint_username">Username</string>
+    <string name="str_hint_password">Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_google_login">Google Sign In</string>
+    <string name="str_register">Register</string>
+    <string name="str_remember_me">Remember me</string>
+    <string name="str_"></string>
+
+    <string name="title_activity_motivation">Shake Me</string>
+    <string name="title_activity_entertainment">Top Movies</string>
+    <string name="str_double_openning_quotes">“</string>
+    <string name="str_double_closing_quotes">”</string>
+
+
+</resources>

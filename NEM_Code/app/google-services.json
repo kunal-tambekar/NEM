@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "574182437687",
+    "firebase_url": "https://nemapp-35423.firebaseio.com",
+    "project_id": "nemapp-35423",
+    "storage_bucket": "nemapp-35423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574182437687:android:3bcc3adb59c8ba42",
+        "android_client_info": {
+          "package_name": "zx.zample.nem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574182437687-vt15m36hr2c6cl5jgr69arhnt6qo660d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zx.zample.nem",
+            "certificate_hash": "21bd754e67bc1c64477ab3161e23e2bf28e342a7"
+          }
+        },
+        {
+          "client_id": "574182437687-vih00eoe6t9nblfq84itn8svmbaknn58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zx.zample.nem",
+            "certificate_hash": "fddd930cfeeabe0070dc4ac85982a5283df982a8"
+          }
+        },
+        {
+          "client_id": "574182437687-73e6633jjnjijrl4honma899b6b0htu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxxDL0LOqm-rJJ5s4-1S-blPhs8_utTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574182437687-73e6633jjnjijrl4honma899b6b0htu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

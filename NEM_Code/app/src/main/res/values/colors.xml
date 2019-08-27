@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorPrimaryLight">#C8E6C9</color>
+
+    <color name="colorN">#4444FF</color>
+    <color name="colorE">#FF6666</color>
+    <color name="colorM">#00cc99</color>
+
+    <color name="primary_text">@color/colorBlack</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icon_heart">#ff5555</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="black_overlay">#33333333</color>
+    <color name="colorBlack">#cc212121</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#707070</color>
+    <color name="colorGreyLight">#8A8A8A</color>
+
+</resources>
